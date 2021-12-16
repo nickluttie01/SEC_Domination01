@@ -1,0 +1,53 @@
+img {
+  max-width: 100%;
+}
+
+body {
+  max-width: 45rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-family: georgia;
+  color: #231F20;
+}
+
+.caption {
+  font-size: 10px;
+  padding-bottom: 10px;
+}
+
+.photocred {
+  font-size: 8px;
+  font-style: italic;
+  color: #4c4c4c;
+}
+
+.name {
+  padding-top: 30px;
+  font-size: 12px;
+}
+
+.time {
+  font-size: 10px;
+  color: #4c4c4c;
+}
+
+a {
+  color: #231F20;
+}
+
+.grafs {
+  font-size: 20px;
+  color: #231F20;
+  line-height: 1.5;
+
+}
+
+.end {
+  font-size: 10px;
+  padding: 0px;
+  margin: 5px;
+}
